@@ -1,6 +1,6 @@
 {
   "name": "grunt-require-map",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Ease generate require deps map",
   "main": "index.js",
   "scripts": {
@@ -24,5 +24,8 @@
     "grunt-contrib-nodeunit": "~0.2.0"
   },
   "author": "Gabriel Mancini <gabriel.mancini@gmail.com> (https://github.com/gabrielmancini)",
-  "license": "MIT"
+  "license": "MIT",
+  "files": [
+    "tasks/require_map.js"
+  ]
 }
