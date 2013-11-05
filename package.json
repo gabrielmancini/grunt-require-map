@@ -11,6 +11,10 @@
     "map",
     "generator"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:gabrielmancini/grunt-require-map.git"
+  },
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-cli": "~0.1.9",
